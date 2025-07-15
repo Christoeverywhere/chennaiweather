@@ -13,7 +13,7 @@ A clean, fast, and locallyfocused weather website that delivers real-time weathe
 -  Tamil + English Language Toggle
 
  Tech Stack
-- Frontend: HTML, CSS, JavaScript / React
+- Frontend: HTML, CSS, JavaScript(Typescript)
 - Weather API: OpenWeatherMap / WeatherAPI
 - AQI Data: WAQI API / BreezoMeter
-- Hosting:GitHub Pages Netlify
+- Hosting:GitHub Pages/ Netlify
